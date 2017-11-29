@@ -1,10 +1,9 @@
-
 body{
   text-align: center;
   font-family: Helvetica;
 }
 
-nav{
+.links{
   background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
 }
 
