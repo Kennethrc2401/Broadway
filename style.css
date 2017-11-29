@@ -5,11 +5,11 @@ body{
 }
 
 .links{
-  background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 nav{
-  background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 a{
@@ -42,7 +42,7 @@ a{
 }
 
 .ny{
-  background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   font-family: Helvetica;
   font-weight: bold;
   color: White;
