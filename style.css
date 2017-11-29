@@ -1,0 +1,53 @@
+
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+nav{
+  background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
+}
+
+a{
+  color: White;
+  font-size: 18px;
+}
+
+.header{
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+}
+
+.process{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.strong_words{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.discription{
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.ny{
+  background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-weight: bold;
+  color: White;
+  font-size: 23px;
+}
+.footer{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
+  text-align: left;
+}
