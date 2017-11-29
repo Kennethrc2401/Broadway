@@ -4,6 +4,10 @@ body{
   font-family: Helvetica;
 }
 
+.links{
+  background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
+}
+
 nav{
   background-image: url("/Users/kennethramirezcastro/Broadway/resources/images/the-flatiron-building.png");
 }
