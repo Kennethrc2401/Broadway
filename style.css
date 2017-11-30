@@ -55,3 +55,24 @@ a{
   background-color: dimgray;
   text-align: left;
 }
+#about{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+#work{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+#team{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#contact{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
